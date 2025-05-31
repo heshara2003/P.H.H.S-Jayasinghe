@@ -1,1 +1,1 @@
-# P.H.H.S-Jayasinghe
+Text Edditor application
